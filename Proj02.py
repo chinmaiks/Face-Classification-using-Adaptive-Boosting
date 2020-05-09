@@ -27,7 +27,7 @@ from skimage.feature import haar_like_feature, haar_like_feature_coord, draw_haa
 # In[ ]:
 
 
-dir_path = "C:/Users/chinm/Documents/Courses/Sem4/CV/Project/2/"
+dir_path = "Project/2/"
 
 face_images_dir = "data/face"
 non_face_imags_dir = "data/non_face/"
